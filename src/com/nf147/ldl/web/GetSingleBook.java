@@ -2,6 +2,7 @@ package com.nf147.ldl.web;
 
 import com.nf147.ldl.dao.BookInMemoryDAO;
 import com.nf147.ldl.entity.Book;
+import com.nf147.ldl.util.DBUtilJSON;
 import com.nf147.ldl.util.WebUtil;
 
 import javax.servlet.ServletException;
@@ -18,9 +19,9 @@ public class GetSingleBook extends HttpServlet {
         resp.setContentType("application/json;charset=utf-8");
         int id = Integer.parseInt(req.getParameter("id"));
         Book book = new BookInMemoryDAO().getBookById(id);
-        System.out.println(id);
-        String result = "{\"id\":\""+book.getId()+"\",\"name\":\""+book.getName()+"\",\"author\":\""+book.getAuthor()+"\",\"price\":\""+book.getPrice()+"\",\"press\":\""+book.getPress()+"\"}";
-        System.out.println(result);
+
+        String result = DBUtilJSON.toJson(book);
+
         resp.getWriter().print(result);
     }
 

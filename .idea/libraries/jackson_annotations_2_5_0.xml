@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.5.0">
+    <CLASSES>
+      <root url="jar://D:/development tool/eclipse_util/apache-tomcat-8.0.53/lib/jackson-annotations-2.5.0.jar!/" />
+      <root url="jar://D:/development tool/eclipse_util/apache-tomcat-8.0.53/lib/jackson-core-2.5.0.jar!/" />
+      <root url="jar://D:/development tool/eclipse_util/apache-tomcat-8.0.53/lib/jackson-databind-2.5.0.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>

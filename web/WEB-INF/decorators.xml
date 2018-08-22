@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<decorators defaultdir="/layouts">
+<decorators defaultdir="/layouts"> <!-- defaultdir:模板所在文件夹路径 -->
 
-    <!-- 定义不过滤的页面，即排除页面 -->
+    <!-- 设置要忽略的页面，如下忽略assets文件夹下的所有文件 -->
     <excludes>
         <pattern>/assets/*</pattern>
     </excludes>
 
-    <!--  定义要装饰的页面  -->
+    <!--  定义要装饰的页面，模板是book_Main.jsp  -->
     <decorator name="book" page="book_Main.jsp">
         <pattern>/*</pattern>
     </decorator>

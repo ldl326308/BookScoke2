@@ -23,5 +23,6 @@
     <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 8.0.53" level="application_server_libraries" />
     <orderEntry type="library" exported="" name="jstl-1.2" level="project" />
     <orderEntry type="library" scope="TEST" name="sitemesh-2.4.2" level="project" />
+    <orderEntry type="library" name="jackson-annotations-2.5.0" level="project" />
   </component>
 </module>

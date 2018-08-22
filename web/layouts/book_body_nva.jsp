@@ -9,7 +9,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a onclick="funClick();" class="nav-link" href="#">
+                <a onclick="funClick();" data-toggle="modal"  data-target="#exampleModalCenteradd" class="nav-link" href="#">
                     <span data-feather="file"></span>
                     新增书籍
                 </a>

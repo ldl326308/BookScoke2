@@ -6,7 +6,53 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="61ec08f8-5cad-4e46-890a-414e0a6f80c3" name="Default Changelist" comment="" />
+    <list default="true" id="61ec08f8-5cad-4e46-890a-414e0a6f80c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jackson_annotations_2_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/0815FirstJavaWeb_Book_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/0815FirstJavaWeb_Book_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0815FirstJavaWeb_Book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/0815FirstJavaWeb_Book.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/WEB-INF/decorators.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/WEB-INF/decorators.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/add_and_update_model.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/add_and_update_model.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/assets/css/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/assets/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/assets/js/jquery1.12.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/jsp/book_add_form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/jsp/book_detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/jsp/book_list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/jsp/book_update.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/layout/book_body.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/layout/book_menu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/layout/book_menu2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/layout/book_nav.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/layout/book_tpl.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/layout/cart_tpl.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/layouts/book_body_nva.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/layouts/book_body_nva.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/nf147/ldl/web/GetSingleBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/nf147/ldl/web/GetSingleBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/decorators.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/decorators.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/add_and_update_model.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/add_and_update_model.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/css/dashboard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/js/jquery1.12.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/book_add_form.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/book_detail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/book_list.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/jsp/book_update.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/layout/book_body.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/layout/book_menu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/layout/book_menu2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/layout/book_nav.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/layout/book_tpl.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/layout/cart_tpl.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/layouts/book_body_nva.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/layouts/book_body_nva.jsp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +68,7 @@
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.33" value="2" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.39" value="1" />
@@ -32,41 +78,41 @@
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.51" value="1" />
           <entry key="project.open.time.55" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="10" />
           <entry key="css" value="4" />
-          <entry key="java" value="133" />
+          <entry key="java" value="136" />
           <entry key="js" value="13" />
-          <entry key="jsp" value="93" />
-          <entry key="xml" value="42" />
+          <entry key="jsp" value="100" />
+          <entry key="xml" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="10" />
           <entry key="CSS" value="4" />
-          <entry key="JAVA" value="133" />
-          <entry key="JSP" value="93" />
+          <entry key="JAVA" value="136" />
+          <entry key="JSP" value="100" />
           <entry key="JavaScript" value="13" />
-          <entry key="XML" value="42" />
+          <entry key="XML" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7637" />
-          <entry key="jsp" value="13380" />
-          <entry key="xml" value="1064" />
+          <entry key="java" value="7742" />
+          <entry key="jsp" value="13733" />
+          <entry key="xml" value="1298" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7637" />
-          <entry key="JSP" value="13380" />
-          <entry key="XML" value="1064" />
+          <entry key="JAVA" value="7742" />
+          <entry key="JSP" value="13733" />
+          <entry key="XML" value="1298" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -79,46 +125,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            <state relative-caret-position="1569">
+              <caret line="120" column="42" selection-start-line="120" selection-start-column="42" selection-end-line="120" selection-end-column="42" />
               <folding>
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#8696#8709#0#HTML" />
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+                <element signature="n#style#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#2845#2858#0#HTML" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/add_and_update_model.jsp">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/decorators.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-              <folding>
-                <element signature="e#807#814#1#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nf147/ldl/web/BookDel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="87" column="43" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
+            <state relative-caret-position="200">
+              <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -126,20 +148,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/nf147/ldl/web/GetSingleBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/nf147/ldl/util/WebUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+            <state relative-caret-position="57">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,8 +163,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -182,10 +192,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/web/layouts/book_Main.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/jsp/add_Book.jsp" />
         <option value="$PROJECT_DIR$/web/jsp/index.jsp" />
         <option value="$PROJECT_DIR$/web/delete_book.jsp" />
         <option value="$PROJECT_DIR$/src/mySession/MemorySession.java" />
@@ -217,9 +229,7 @@
         <option value="$PROJECT_DIR$/web/jsp/layouts/book_header.jsp" />
         <option value="$PROJECT_DIR$/web/jsp/layouts/book_Main.jsp" />
         <option value="$PROJECT_DIR$/web/jsp/layouts/book_top_res.jsp" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/decorators.xml" />
         <option value="$PROJECT_DIR$/web/update_book.jsp" />
-        <option value="$PROJECT_DIR$/web/layouts/book_body_nva.jsp" />
         <option value="$PROJECT_DIR$/web/add_Book.jsp" />
         <option value="$PROJECT_DIR$/src/com/nf147/ldl/util/WebUtil.java" />
         <option value="$PROJECT_DIR$/src/com/nf147/ldl/entity/Book.java" />
@@ -230,12 +240,15 @@
         <option value="$PROJECT_DIR$/web/layouts/book_Main.jsp" />
         <option value="$PROJECT_DIR$/src/com/nf147/ldl/web/DBUtilJson.java" />
         <option value="$PROJECT_DIR$/src/com/nf147/ldl/web/BookUpdate.java" />
-        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/com/nf147/ldl/web/GetSingleBook.java" />
         <option value="$PROJECT_DIR$/src/com/nf147/ldl/web/BookDel.java" />
         <option value="$PROJECT_DIR$/web/add_model.jsp" />
+        <option value="$PROJECT_DIR$/web/layouts/book_body_nva.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/decorators.xml" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/add_and_update_model.jsp" />
+        <option value="$PROJECT_DIR$/src/com/nf147/ldl/util/DBUtilJSON.java" />
+        <option value="$PROJECT_DIR$/src/com/nf147/ldl/web/GetSingleBook.java" />
       </list>
     </option>
   </component>
@@ -252,7 +265,7 @@
     <option name="FILTER_DEBUG" value="true" />
     <option name="CUSTOM_FILTER" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="358" />
     <option name="y" value="33" />
     <option name="width" value="897" />
@@ -264,8 +277,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,7 +302,7 @@
               <item name="0815FirstJavaWeb_Book" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ldl" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="0815FirstJavaWeb_Book" type="b2602c69:ProjectViewProjectNode" />
@@ -298,9 +311,42 @@
             </path>
             <path>
               <item name="0815FirstJavaWeb_Book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="0815FirstJavaWeb_Book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jackson-annotations-2.5.0" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="0815FirstJavaWeb_Book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jackson-annotations-2.5.0" type="70bed36:NamedLibraryElementNode" />
               <item name="0815FirstJavaWeb_Book" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="0815FirstJavaWeb_Book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jackson-annotations-2.5.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="0815FirstJavaWeb_Book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="0815FirstJavaWeb_Book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jackson-annotations-2.5.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="0815FirstJavaWeb_Book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ldl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="0815FirstJavaWeb_Book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="jackson-annotations-2.5.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="0815FirstJavaWeb_Book" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ldl" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -312,11 +358,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534898332670" />
-    <property name="last_opened_file_path" value="D:/development tool/eclipse_util/apache-tomcat-8.0.53/lib/sitemesh-2.4.2.jar!/" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534915703218" />
+    <property name="last_opened_file_path" value="D:/development tool/eclipse_util/apache-tomcat-8.0.53/lib/jackson-databind-2.5.0.jar!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29663607" />
     <property name="settings.editor.selected.configurable" value="liveEdit" />
@@ -356,6 +402,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.nf147.ldl.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DBUtilJSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nf147.ldl.util.DBUtilJSON" />
+      <module name="0815FirstJavaWeb_Book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nf147.ldl.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -550,7 +609,13 @@
       <item itemvalue="Application.BookTest" />
       <item itemvalue="Application.XMLTest" />
       <item itemvalue="Tomcat Server.tomcat" />
+      <item itemvalue="Application.DBUtilJSON" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DBUtilJSON" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -578,17 +643,18 @@
       <workItem from="1534855025138" duration="1084000" />
       <workItem from="1534856706467" duration="2749000" />
       <workItem from="1534892417912" duration="3523000" />
+      <workItem from="1534898923952" duration="9907000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136560000" />
+    <option name="totallyTimeSpent" value="146467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.53688526" visible="true" weight="0.26626325" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.53688526" visible="true" weight="0.19288956" />
       <window_info id="Structure" order="1" sideWeight="0.46311477" side_tool="true" weight="0.21255673" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -597,9 +663,9 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" sideWeight="0.41304347" side_tool="true" weight="0.19591528" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.58196723" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43278688" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" weight="0.30819672" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.58032787" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45737705" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" visible="true" weight="0.5229508" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -661,35 +727,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="633" column="19" selection-start-line="633" selection-start-column="19" selection-end-line="633" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/filter/BookUpdate.java" />
-    <entry file="file://$PROJECT_DIR$/src/mySession/session/AServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mySession/session/MemorySession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mySession/session/SessionFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="31" column="26" lean-forward="true" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/mySession/session/BServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -719,13 +756,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/js_css/js/jquery-1.11.3.js" />
     <entry file="file://$PROJECT_DIR$/web/js_css/js/jQuery.js" />
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/decorators.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="29" lean-forward="true" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/out/artifacts/0815FirstJavaWeb_Book_war_exploded/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -737,13 +767,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1125">
           <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nf147/ldl/entity/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -772,13 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/layouts/book_body_nva.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -826,13 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/layouts/book_Main.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/development tool/eclipse_util/apache-tomcat-8.0.53/lib/sitemesh-2.4.2.jar!/com/opensymphony/sitemesh/webapp/SiteMeshFilter.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -862,13 +871,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/book.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/development tool/eclipse_util/apache-tomcat-8.0.53/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -876,9 +878,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nf147/ldl/web/BookDel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/nf147/ldl/util/WebUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state relative-caret-position="275">
           <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -886,27 +898,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/layouts/book_body_nva.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="61" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/book.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/book_add_form.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-700" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/book_detail.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/book_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/jsp/book_update.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-225" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/layouts/book_Main.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="39" column="10" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="87" column="43" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
+        <state>
+          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nf147/ldl/web/GetSingleBook.java">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/decorators.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="200">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/nf147/ldl/web/BookDel.java">
+    <entry file="file://$PROJECT_DIR$/src/com/nf147/ldl/entity/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="18" column="15" lean-forward="true" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        <state relative-caret-position="100">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nf147/ldl/util/DBUtilJSON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="47" column="33" lean-forward="true" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -915,22 +972,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/add_and_update_model.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="-2020">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/nf147/ldl/web/GetSingleBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
           <folding>
-            <element signature="e#807#814#1#HTML" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        <state relative-caret-position="1569">
+          <caret line="120" column="42" selection-start-line="120" selection-start-column="42" selection-end-line="120" selection-end-column="42" />
           <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#8696#8709#0#HTML" />
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2845#2858#0#HTML" />
           </folding>
         </state>
       </provider>
@@ -942,10 +1006,10 @@
         <settings>
           <artifact-editor>
             <show-content>
-              <type id="library" />
-              <type id="javaee-facet-resources" />
               <type id="artifact" />
               <type id="jpa-descriptors" />
+              <type id="library" />
+              <type id="javaee-facet-resources" />
             </show-content>
           </artifact-editor>
           <last-edited>0815FirstJavaWeb_Book:war exploded</last-edited>
@@ -976,7 +1040,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.29663607" />
               </list>
             </option>
           </splitter-proportions>
@@ -1001,7 +1065,6 @@
             <option name="proportions">
               <list>
                 <option value="0.29663607" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1021,7 +1084,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>sitemesh-2.4.2</last-edited>
+          <last-edited>jackson-annotations-2.5.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

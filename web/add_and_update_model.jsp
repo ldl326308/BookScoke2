@@ -25,7 +25,7 @@
                     <div class="form-group row">
                         <label for="nameUpd" class="col-sm-2 col-form-label">书名</label>
                         <div class="col-sm-10">
-                            <input type="text" name="name" class="form-control" value="dsfdsfsdf" autocomplete="off" id="nameUpd" placeholder="请输入书名">
+                            <input type="text" name="name" class="form-control" autocomplete="off" id="nameUpd" placeholder="请输入书名">
                         </div>
                     </div>
 

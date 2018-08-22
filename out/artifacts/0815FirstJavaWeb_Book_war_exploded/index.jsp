@@ -31,6 +31,7 @@
      <%=
           WebUtil.showMessage(request)
      %>
+
   </div>
   <div class="col-3"></div>
 </div>
@@ -48,28 +49,31 @@
                 <th>出版社</th>
                 <th>其他</th>
               </tr>
-                      <%
-                        List<Book> books = (List<Book>) request.getAttribute("books");
-                        for (Book book : books) {
-                      %>
+                      <%--<%--%>
+                        <%--List<Book> books = (List<Book>) request.getAttribute("books");--%>
+                        <%--for (Book book : books) {--%>
+                      <%--%>--%>
+
+            <c:forEach items="${requestScope.books}" var="book">
+
               <tr>
-                <td><input type="checkbox" class="cbo" name="cboX" value="<%=book.getId()%>" /></td>
-                <td><%=book.getId()%></td>
+                <td><input type="checkbox" class="cbo" name="cboX" value="${book.id}" /></td>
+                <td>${book.id}</td>
                 <td>
-                  <a href="bookDetail?id=<%=book.getId()%>"><%=book.getName()%></a>
+                  <a href="bookDetail?id=${book.id}">${book.name}</a>
                 </td>
-                <td><%=book.getAuthor()%></td>
-                <td><%=book.getPrice()%></td>
-                <td><%=book.getPress()%></td>
+                <td>${book.author}</td>
+                <td>${book.price}</td>
+                <td>${book.press}</td>
                 <td>
-                    <input type="button" data-id="<%=book.getId()%>"  class="btn btn-secondary" data-toggle="modal" data-target="#exampleModalCenterupd" value="更新" />
-                    <input type="button" class="btn btn-danger" onclick="delClick(<%=book.getId()%>);" value="删除"/>
+                    <input type="button" data-id="${book.id}"  class="btn btn-secondary" data-toggle="modal" data-target="#exampleModalCenterupd" value="更新" />
+                    <input type="button" class="btn btn-danger" onclick="delClick(${book.id});" value="删除"/>
 
                 </td>
               </tr>
-              <%
-                }
-              %>
+
+            </c:forEach>
+
           </table>
         <input type="button"  data-toggle="modal" class="btn btn-secondary" data-target="#exampleModalCenteradd" value="添加新书籍" />
         <input type="submit"  style="margin-left:15px;" class="btn btn-secondary"  value="批量删除" />
@@ -109,12 +113,13 @@
 
 
     $('#exampleModalCenterupd').on('show.bs.modal', function (event) {
-            var button = $(event.relatedTarget) ;
-            var recipient = button.data('whatever') ;
-            var modal = $(this);
-            modal.find('.modal-body input').val(recipient);
-
-            var id = button.data("id");
+            // var button = $(event.relatedTarget) ;
+            // var recipient = button.data('whatever') ;
+            // var modal = $(this);
+            // modal.find('.modal-body input').val(recipient);
+            //
+            // var id = button.data("id");
+            var id  = $(event.relatedTarget).data("id");
 
             $.ajax({
                type:"get",
@@ -126,17 +131,11 @@
                         $("#authorUpd").val(data.author);
                         $("#pressUpd").val(data.press);
                         $("#priceUpd").val(data.price);
-                    console.log("ajax返回的数据如下："+data.id+" "+data.name+" "+data.author+" "+data.press+" "+data.price);
+               },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert("错误信息："+ XMLHttpRequest.responseText+"  "+textStatus+" "+errorThrown);
                 }
-             });
-
-            console.log("获取文本框的ID值："+$("#idUpd").val())
-            console.log("获取文本框的name值："+$("#nameUpd").val())
-            console.log("获取文本框的author值："+$("#authorUpd").val())
-            console.log("获取文本框的press值："+$("#pressUpd").val())
-            console.log("获取文本框的price值："+$("#priceUpd").val())
-
-
+            });
     });
 
     //添加js
